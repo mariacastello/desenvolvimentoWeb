@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color: purple;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+#box_one {
+    background-color: #17a2b8;
+    padding: 10px;
+    border: 2px dashed #333;
+}
+
+h2 {
+    color: yellow;
+    font-size: 24px;
+    font-style: italic;
+}
+
+#custom_text {
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+    color: green;
+}
+
+#box_two {
+    background-color: #f8f9fa;
+    width: 60%;
+    padding: 20px;
+    border: 3px solid #e83e8c;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: #6c757d;
+}
+
+span {
+    color: blue;
+    font-weight: bolder;
+    background-color: #f0ad4e;
+}
